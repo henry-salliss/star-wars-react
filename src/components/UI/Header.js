@@ -6,12 +6,12 @@ const Header = () => {
       <h1>Star Wars</h1>
       <nav>
         <ul>
-          <NavLink to={"/home/movieID}"}>Episode I</NavLink>
-          <NavLink to={"/home/movieID}"}>Episode II</NavLink>
-          <NavLink to={"/home/movieID}"}>Episode III</NavLink>
-          <NavLink to={"/home/movieID}"}>Episode IV</NavLink>
-          <NavLink to={"/home/movieID}"}>Episode V</NavLink>
-          <NavLink to={"/home/movieID}"}>Episode VI</NavLink>
+          <NavLink to={"/movies/4"}>Episode I</NavLink>
+          <NavLink to={"/movies/5"}>Episode II</NavLink>
+          <NavLink to={"/movies/6"}>Episode III</NavLink>
+          <NavLink to={"/movies/1"}>Episode IV</NavLink>
+          <NavLink to={"/movies/2"}>Episode V</NavLink>
+          <NavLink to={"/movies/3"}>Episode VI</NavLink>
         </ul>
       </nav>
     </div>

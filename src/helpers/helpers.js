@@ -1,3 +1,4 @@
-export const getMovie = (movie) => {
-  console.log(movie);
-};
+// export const getMovie = (movie) => {
+//   console.log(movie);
+//   return movie;
+// };
